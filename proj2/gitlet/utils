@@ -1,0 +1,3 @@
+py runner.py --keep --debug student_tests/test25-successful-find.in
+py runner.py --keep --debug student_tests/test42-other-err.in
+py remove_line_nums.py student_tests/test39-short-uid.in
